@@ -1,4 +1,4 @@
-#Solução de Simulated Annealing para Traveling Tournament Problem - TTP
+# Solução de Simulated Annealing para Traveling Tournament Problem - TTP
 
 O Traveling Tournament Problem - TTP, é um problema de otimização combinatória complexo e desafiador, comum na organização de torneios esportivos, especialmente em campeonatos profissionais. O objetivo central do TTP é elaborar um cronograma de torneio equilibrado, onde cada equipe enfrenta todas as outras, uma vez em casa e uma vez fora, buscando minimizar a distância total percorrida por todas as equipes.
 
